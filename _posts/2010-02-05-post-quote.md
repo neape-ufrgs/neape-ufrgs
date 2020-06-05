@@ -1,12 +1,14 @@
 ---
-title: "Post: Quote"
+title: "Post: Relatos"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - quote
+  - Relatos
+  - NEAPE
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> Eu entrei no curso de física 2 anos depois de terminar o ensino médio em uma escola pública do interior. Além de ter tido uma base muito fraca na matemática e até mesmo na física, fiquei um bom tempo sem contato com os conteúdos, de forma que até mesma matemática básica era um problema pra mim quando entrei no curso.
+
+Nos primeiros dias de curso já senti o choque da grande quantidade de conteúdo pra se absorver a tempo das avaliações. Eram muitas cadeiras e muito conteúdo em muito pouco tempo. Além disso tudo, eu não tinha o costume de despender muito tempo para estudar, já que na escola eu não precisava. Desta forma, eu não estudava o suficiente e quando chegava um dia ou dois antes de alguma avaliação eu passava a maior parte do tempo estudando para correr contra o tempo. Já deixei de dormir noites inteiras para chegar na prova um pouco mais preparado. Fiz isso por alguns semestres e percebo hoje que isso afetou muito minha saúde mental. Acho extremamente necessário criar uma rotina saudável e estável pra seguirmos com o curso. Do contrário, estaremos fazendo uma troca injusta de nossa saúde e bem estar por um diploma que não devolverá tudo isso no futuro..
   
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite><a href="">Sandro</a></cite>
