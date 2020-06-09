@@ -5,6 +5,10 @@ categories:
 tags:
 ---
 
+header:
+  image: /assets/images/page-header-image.png
+  og_image: /assets/images/page-header-og-image.png
+
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
 
 When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
