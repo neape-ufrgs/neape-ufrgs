@@ -1,8 +1,8 @@
 ---
 title: "Bem-vindos!!"
-date: 2019-04-18T15:34:30-04:00
+date: 2020-06-06T15:34:30-04:00
 categories:
-  - blog
+  - Apresentação
 tags:
   - NEAPE
   - Integrantes
