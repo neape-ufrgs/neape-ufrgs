@@ -1,11 +1,16 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categorias"
-    url: /categories/
-  - title: "Licencitura em Física"
-    url: /apadrinhamento/
-  - title: "Tags"
-    url: /tags/
   - title: "o NEAPE"
     url: /about/
+    
+  - title: "Licencitura em Física"
+    url: /apadrinhamento/ 
+  
+  - title: "Publicações"
+    url: /posts/
+    
+  - title: "Categorias"
+    url: /categories/ 
+    
+  - title: "Tags"
+    url: /tags/
+ 
