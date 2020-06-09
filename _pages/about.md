@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Sobre"
+title: "o NEAPE"
 ---
 
 O NEAPE é um núcleo... tendo como integrantes.
