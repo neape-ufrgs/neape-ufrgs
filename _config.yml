@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Núcleo de Estudos e Ações para a Persistência Estudantil"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Curso de Licenciatura em Física - Uuniversidade Federal do Rio Grande do Sul (UFRGS) - Instituto de Física (IF)"
+  bio    : "Curso de Licenciatura em Física - Universidade Federal do Rio Grande do Sul (UFRGS) - Instituto de Física (IF)"
   links:
     #- label: "Website"
      # icon: "fas fa-fw fa-link"
