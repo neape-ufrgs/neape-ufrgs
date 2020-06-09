@@ -91,7 +91,6 @@ defaults:
       path: ""
       type: posts
     values:
-      style: "text-align: justify;
       layout: single
       author_profile: true
       read_time: true
