@@ -3,9 +3,9 @@ main:
     url: /posts/
   - title: "Categorias"
     url: /categories/
-  - title: "Apadrinhamento"
+  - title: "Licencitura em Física"
     url: /apadrinhamento/
   - title: "Tags"
     url: /tags/
-  - title: "Sobre"
+  - title: "o NEAPE"
     url: /about/
