@@ -1,13 +1,13 @@
 ---
 title: "Post: Notice"
-categories:
-
-tags:
----
 
 header:
   image: /assets/images/page-header-image.png
   og_image: /assets/images/page-header-og-image.png
+
+---
+
+
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
 
