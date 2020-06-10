@@ -72,3 +72,4 @@ Or you could skip the capture and stick with straight HTML.
 ```html
 <IFRAME SRC="//InsightMaker.com/insight/198148/embed?topBar=1&sideBar=1&zoom=1" TITLE="Embedded Insight" width=600 height=420></IFRAME>
 ```
+<IFRAME SRC="//InsightMaker.com/insight/198148/embed?topBar=1&sideBar=1&zoom=1" TITLE="Embedded Insight" width=600 height=420></IFRAME>
