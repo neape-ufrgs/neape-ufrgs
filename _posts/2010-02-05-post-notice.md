@@ -72,4 +72,4 @@ Or you could skip the capture and stick with straight HTML.
 ```html
 <IFRAME SRC="//InsightMaker.com/insight/198148/embed?topBar=1&sideBar=1&zoom=1" TITLE="Embedded Insight" width=600 height=420></IFRAME>
 ```
-style="text-align: center;"> <iframe width="800" height="500" src="//InsightMaker.com/insight/198148/embed?topBar=1&amp;sideBar=1&amp;zoom=1" title="Embedded Insight"></iframe>
+<p style="text-align: center;"> <iframe width="800" height="500" src="//InsightMaker.com/insight/198148/embed?topBar=1&amp;sideBar=1&amp;zoom=1" title="Embedded Insight"></iframe></p>
