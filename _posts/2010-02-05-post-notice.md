@@ -2,7 +2,7 @@
 title: "Post: Notice"
 author_profile: false
 sidebar:
-  title: "Sumário"
+  title: "NEAPE"
   nav: neape
 header:
   image: /assets/images/page-header-image.png
