@@ -1,6 +1,9 @@
 ---
 title: "Post: Notice"
-
+author_profile: false
+sidebar:
+  title: "Sumário"
+  nav: neape
 header:
   image: /assets/images/page-header-image.png
   og_image: /assets/images/page-header-og-image.png
