@@ -12,10 +12,10 @@ main:
     url: /categories/ 
     
 neape:
-    - title: "Seções"
+    - title: "Informativo"
       children:
         - title: "Envise seu relato"
-          url: https://milenalauschner.github.io/MM/apresentação/
+          url: https://docs.google.com/forms/d/e/1FAIpQLSeSXt0fLPEmYx1sOp9gyejilnFFiARR8fH345D53fAJZovMhg/viewform"
         - title: "UFRGS"
           url: 
         - title: "Publicações"
