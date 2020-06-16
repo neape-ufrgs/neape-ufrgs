@@ -1,14 +1,17 @@
 main:
-  - title: "o NEAPE"
+  - title: "Sobre o NEAPE"
     url: /about/
     
-  - title: "Licencitura em Física"
+  - title: "Licencitura em Física na UFRGS"
     url: /apadrinhamento/ 
   
-  - title: "Publicações"
+  - title: "Rodei e agora?"
     url: /posts/
     
-  - title: "Categorias"
+  - title: "Ações do Núcleo"
+    url: /categories/ 
+    
+  - title: "Estudos e Publicações do Núcleo"
     url: /categories/ 
     
 neape:
