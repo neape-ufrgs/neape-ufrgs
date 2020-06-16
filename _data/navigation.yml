@@ -11,3 +11,13 @@ main:
   - title: "Categorias"
     url: /categories/ 
     
+neape:
+    - title: "Seções"
+      children:
+        - title: "Envise seu relato"
+          url: https://milenalauschner.github.io/MM/apresentação/
+        - title: "UFRGS"
+          url: 
+        - title: "Publicações"
+          url: 
+        
