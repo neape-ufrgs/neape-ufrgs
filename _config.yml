@@ -17,6 +17,7 @@ title: NEAPE
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Núcleo de Estudos e Ações para a Persistência Estudantil
+logo: "/assets/images/bio-photo.png"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
